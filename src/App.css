@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Roboto;
+}
+
+.center-align {
+  text-align: center;
+}
+
+
+.scoreboard-styling {
+  position: absolute;
+  top: 150px;
+  left: 600px;
+
+}
+
+.😸 {
+  position: relative;
+  top: 80px;
+}
+
+.🥣 {
+  position: absolute;
+}
+
+.🍩 {
+  position: absolute;
+  left: 40px;
+  top: 60px;
+}
+
+.🍟 {
+  position: absolute;
+  left: 250px;
+  top: 90px;
+}
+
+.🐟 {
+  position: absolute;
+  left: 820px;
+  top: 580px;
+}
+
+.🍔 {
+  position: absolute;
+  left: 1000px;
+  top: 680px;
+}
+
+.🌭 {
+  position: absolute;
+  left: 430px;
+  top: 160px;
+}
+
+.🍕 {
+  position: absolute;
+  left: 780px;
+  top: 740px;
+}
+
+.🌮 {
+  position: absolute;
+  left: 1200px;
+  top: 600px;
+}
